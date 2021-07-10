@@ -22,6 +22,8 @@ struct PlayerSoccer {
 
 typealias PlayerSoccers = [PlayerSoccer]
 
+
+    // MARK: Extensiones
 extension Float {
     
     func stringFormatMoney() -> String {
